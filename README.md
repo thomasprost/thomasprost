@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey こんにちは,
 
+- 🛰️ Currently working on React (mostly Nextjs and Gastby), Symfony and Wordpress projects.
+- 🌌 Interested in debugging things and helping clients build great websites.
+- 🛸 How to reach me: [My site](https://akinoyusei.com/) or [LinkedIn](https://www.linkedin.com/in/thomas-prost-2bbbb427/)
+- 🕳️ Fun fact: I've never visited a black hole 🤯
 <!--
 **thomasprost/thomasprost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
