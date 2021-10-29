@@ -3,7 +3,7 @@
 - 🛰️ Currently working on React (mostly Nextjs and Gastby), Symfony and Wordpress projects.
 - 🌌 Interested in debugging things and helping clients build great websites.
 - 🛸 How to reach me: [My site](https://akinoyusei.com/) or [LinkedIn](https://www.linkedin.com/in/thomas-prost-2bbbb427/)
-- 🕳️ Fun fact: I've never visited a black hole 🤯
+- 🕳️ Fun fact: If you comment out the tests they dont fail anymore
 <!--
 **thomasprost/thomasprost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
