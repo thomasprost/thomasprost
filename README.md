@@ -1,6 +1,6 @@
 ### Hey こんにちは,
 
-- 🛰️ Currently working on React (mostly Nextjs and Gastby), Symfony and Wordpress projects.
+- 🛰️ Currently working on React (mostly Nextjs and Gastby), Svelte, Symfony and Wordpress projects.
 - 🌌 Interested in debugging things and helping clients build great websites.
 - 🛸 How to reach me: [My site](https://akinoyusei.com/) or [LinkedIn](https://www.linkedin.com/in/thomas-prost-2bbbb427/)
 - 🕳️ Fun fact: If you comment out the tests they dont fail anymore
